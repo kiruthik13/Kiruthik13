@@ -2,21 +2,21 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#ff4b5c;">Kiruthik</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF4B5C&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+%7C+Java+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF4B5C&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+%7C+Java+Enthusiast;MERN+%7C+Java+%7C+Spring+Boot;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
   <a href="mailto:kiruthikbairavan13@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4B5C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/kiruthikbairavan-c-3a35b626b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://creative-brioche-204b8c.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/kiruthik13?tab=followers">
-    <img src="https://img.shields.io/github/followers/kiruthik13?style=for-the-badge&color=ff4b5c" />
+    <img src="https://img.shields.io/github/followers/kiruthik13?style=for-the-badge&color=ff4b5c&label=Followers" />
   </a>
 </p>
 
@@ -24,11 +24,30 @@
 
 ## 👤 About Me
 
-- 🔭 Currently working on **Full-Stack Projects**
-- 🌱 Learning **MERN Stack** & **Java**
-- 🤝 Open to collaborating with **companies & developers**
-- 💬 Ask me about **web development, MERN, Java, and full-stack apps**
+- 👨‍💻 Full-Stack Developer & **MSc Software Systems** student  
+- 🔭 Currently working on **MERN & Java/Spring Boot projects**
+- 🌱 Learning & exploring **scalable web apps and DevOps basics**
+- 🤝 Open to collaborating with **companies, startups & developers**
+- 💬 Ask me about **web development, MERN stack, Java, REST APIs**
 - 📫 Reach me at: **[kiruthikbairavan13@gmail.com](mailto:kiruthikbairavan13@gmail.com)**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:kiruthikbairavan13@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kiruthikbairavan-c-3a35b626b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://creative-brioche-204b8c.netlify.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="40" />
+  </a>
+</p>
 
 ---
 
@@ -52,6 +71,7 @@
       <h3>🛠 Backend</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
@@ -73,6 +93,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
       </p>
     </td>
   </tr>
@@ -98,6 +119,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiruthik13&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -113,10 +142,19 @@
 
 ---
 
-## 🌐 Activity & Contributions
+## 📈 Activity & Contributions
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiruthik13&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🐍 Contribution Snake (Optional)
+
+<!-- This will start working after you set up the GitHub Action to generate the snake SVG -->
+<div align="center">
+  <img src="https://github.com/kiruthik13/kiruthik13/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
