@@ -32,32 +32,33 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-```yaml
-whoami: Kiruthik Bairavan C
-role: Aspiring Full-Stack Developer (Fresher)
-education: M.Sc. Software Systems @ Kongu Engineering College
-core_stack: [React, Node.js, Express, MongoDB, ASP.NET Core, Java]
-certifications: [Oracle Java SE 17, Oracle GenAI, NPTEL Cybersecurity]
-achievements: 2× 1st Prize (CTPG PoC & Ideathon) · 2nd Prize (KEC Hackathon)
-publication: "IEEE AIMLA 2026 — Bitcoin Price Prediction, Deep Learning"
-now_building: CareSync — Hospital Appointment Booking Platform
-philosophy: "Ship fast. Design premium. Never ship generic UI."
+<table width="100%">
+<tr>
+<td>
+
+```
+● ● ●  kiruthik@dev ~
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kiruthik13&theme=radical&hide_border=true&layout=compact" onerror="this.style.display='none'" width="100%"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/238200622-1b1cbb31-8e33-4b6d-89b3-f0d2be9c2c3f.gif" width="100%" />
+```yaml
+whoami:          Kiruthik Bairavan C
+role:            Aspiring Full-Stack Developer (Fresher)
+education:       M.Sc. Software Systems @ Kongu Engineering College
+core_stack:      [React, Node.js, Express, MongoDB, ASP.NET Core, Java]
+certifications:  [Oracle Java SE 17, Oracle GenAI, NPTEL Cybersecurity]
+achievements:    2× 1st Prize (CTPG PoC & Ideathon) · 2nd Prize (KEC Hackathon)
+publication:     "IEEE AIMLA 2026 — Bitcoin Price Prediction, Deep Learning"
+now_building:    CareSync — Hospital Appointment Booking Platform
+philosophy:      "Ship fast. Design premium. Never ship generic UI."
+```
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4">
 
