@@ -197,10 +197,6 @@ Mobile-first eco-friendly shopping app with Firebase Auth.
 
 <img src="./profile/top-langs.svg" height="170" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kiruthik13&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4">
@@ -210,8 +206,6 @@ Mobile-first eco-friendly shopping app with Firebase Auth.
 <summary><h2 style="display:inline">📈 Contribution Activity</h2></summary>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiruthik13&theme=react-dark&hide_border=true&area=true" width="100%" />
-
 <img src="https://raw.githubusercontent.com/kiruthik13/kiruthik13/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
