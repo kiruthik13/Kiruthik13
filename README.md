@@ -190,12 +190,12 @@ Mobile-first eco-friendly shopping app with Firebase Auth.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiruthik13&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true&bg_color=1E1E2E&title_color=FF4B5C&icon_color=7C3AED" height="175" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruthik13&theme=radical&hide_border=true&border_radius=12&background=1E1E2E&ring=FF4B5C&fire=FF4B5C" height="175" />
+<img src="./profile/stats.svg" height="175" />
+<img src="./profile/streak.svg" height="175" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthik13&layout=compact&theme=radical&hide_border=true&border_radius=12&bg_color=1E1E2E&title_color=FF4B5C" height="170" />
+<img src="./profile/top-langs.svg" height="170" />
 
 <br/>
 
@@ -210,7 +210,7 @@ Mobile-first eco-friendly shopping app with Firebase Auth.
 <summary><h2 style="display:inline">📈 Contribution Activity</h2></summary>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiruthik13&theme=react-dark&hide_border=true&area=true&bg_color=1E1E2E&color=FF4B5C&line=FF4B5C&point=7C3AED" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiruthik13&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 <img src="https://raw.githubusercontent.com/kiruthik13/kiruthik13/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
