@@ -30,12 +30,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats card
-        uses: DenverCoder1/github-readme-streak-stats@v1
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user_id: ${{ github.repository_owner }}
-          theme: radical
-          hide_border: true
-          output: profile/streak.svg
+          options: "user=${{ github.repository_owner }}&theme=radical&hide_border=true"
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push cards
         run: |
